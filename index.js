@@ -1,0 +1,2 @@
+// https://api.openweathermap.org/data/2.5/weather?q=germany&appid=cf3b1c3dfe0c28cd3b692e2099f9521f
+// https://api.openweathermap.org/data/2.5/weather?q=india&appid=cf3b1c3dfe0c28cd3b692e2099f9521f&units=metric
